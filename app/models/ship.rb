@@ -9,4 +9,7 @@ class Ship
     @type = params[:type]
     @booty = params[:booty]
     @@all << self
+  end
+
+  
 end
